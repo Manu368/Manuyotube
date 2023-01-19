@@ -1,0 +1,270 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+body {
+    font-family: "Roboto";
+
+}
+
+.manu01 {
+    background-color: #270082;
+}
+
+.manu02 {
+    background-color: #ffffff;
+}
+
+.manu03 {
+    background-color: #ffffff;
+}
+
+.mtunes {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#overview {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#music {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#video {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#gift {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.bg-container01 {
+    background-image: url("https://res.cloudinary.com/dqrttxm5s/image/upload/v1674047324/08th_g5x6mb.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading01 {
+    font-size: 72px;
+    font-weight: 700;
+    color: white;
+}
+
+.para01 {
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+}
+
+.para02 {
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+    text-align: justify;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+@media screen and (max-width: 576px) {
+    .para02 {
+        font-size: 24px;
+        font-weight: 400;
+        color: white;
+        text-align: justify;
+        margin-right: 30px;
+        margin-left: 30px;
+    }
+}
+
+.bg-container02 {
+    background-color: #281154;
+}
+
+.mano {
+    color: white;
+    font-size: 38px;
+}
+
+.heading02 {
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+    padding-left: 1px;
+}
+
+.heading03 {
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+    padding-top: 15px;
+}
+
+.heading04 {
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    padding-top: 37px;
+    margin-right: 120px;
+    margin-left: 120px;
+    text-align: justify;
+}
+
+@media screen and (max-width: 576px) {
+    .heading04 {
+        color: white;
+        font-size: 18px;
+        font-weight: 700;
+        padding-top: 10px;
+        margin-right: 30px;
+        margin-left: 30px;
+        text-align: justify;
+    }
+}
+
+.button01 {
+    width: 185px;
+    height: 55px;
+    background-color: #DC0000;
+    border-width: 0px;
+    border-style: solid;
+    color: white;
+}
+
+.para03 {
+    color: white;
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.bg-container03 {
+    background-color: #F9F6FF;
+    background-size: cover;
+
+}
+
+.image01 {
+    position: relative;
+    background-color: #F9F6FF;
+}
+
+.heading05 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.para04 {
+    color: #000000;
+    font-size: 18px;
+    font-weight: 300;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: justify;
+}
+
+.button02 {
+    width: 133px;
+    height: 50px;
+    background-color: #37008E;
+    color: white;
+    margin-top: 50px;
+}
+
+.bg-container04 {
+    background-image: url("https://res.cloudinary.com/dqrttxm5s/image/upload/v1674068708/nn_nsvl1d.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.heading06 {
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+}
+
+.para05 {
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.image02 {
+    width: 100%;
+}
+
+.card-container {
+    box-shadow: 4px 4px 8px #d2d6d3;
+    width: 576px;
+    height: 250px;
+}
+
+.heading07 {
+    color: #000000;
+    font-size: 24px;
+    font-weight: 700;
+    padding-top: 25px;
+    padding-left: 10px;
+}
+
+.para06 {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.bg-container06 {
+    background-color: #1B0058;
+    background-size: cover;
+}
+
+.heading08 {
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    padding-top: 50px;
+}
+
+.line {
+    background-color: white;
+    height: 1px;
+    width: 100%;
+}
+
+.para07 {
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.bg-container07 {
+    background-color: #270082;
+}
+
+.copyrights {
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+}
