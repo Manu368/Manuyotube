@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+body {
+    font-family: "Roboto";
+
+}
+
+.bg-container01 {
+    background-image: url("https://res.cloudinary.com/dqrttxm5s/image/upload/v1674129662/p1_vejizi.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+.button01 {
+    background-color: #313534;
+    width: 678px;
+    height: 126px;
+    border-width: 0px;
+    color: #F7ECE5;
+    font-size: 64px;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+
+.bg-container02 {
+    background-color: #F4F4F4;
+    background-size: cover;
+}
+
+.heading01 {
+    color: #666666;
+    font-size: 48px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+.para01 {
+    color: #666666;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.bg-container03 {
+    background-image: url("https://res.cloudinary.com/dqrttxm5s/image/upload/v1674130616/p2_vejrr5.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.button02 {
+    background-color: rgba(49, 53, 52, 0.5);
+    width: 678px;
+    height: 126px;
+    border-width: 0px;
+    color: #ffffff;
+    font-size: 64px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.bg-container04 {
+    background-color: #313534;
+    margin-top: 10px;
+}
+
+.heading02 {
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: 500;
+}
+
+.bg-container05 {
+    background-image: url("https://res.cloudinary.com/dqrttxm5s/image/upload/v1674131909/p3_in9n96.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.button03 {
+    background-color: rgba(49, 53, 52, 0.5);
+    width: 807px;
+    height: 126px;
+    border-width: 0px;
+    color: #ffffff;
+    font-size: 64px;
+    font-weight: 600;
+    text-align: center;
+}
