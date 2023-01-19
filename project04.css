@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.logo {
+    width: 201px;
+    height: 76px;
+}
+
+body {
+    font-family: "Roboto";
+}
+
+#home {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#menu {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#contact {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.food {
+    border-radius: 50%;
+    width: 100%;
+}
+
+.button01 {
+    background-color: #149F39;
+    width: 205px;
+    height: 35px;
+    border-width: 0px;
+    border-style: solid;
+    color: white;
+}
+
+.heading01 {
+    color: #000000;
+    font-size: 72px;
+    font-weight: bold;
+}
+
+.heading02 {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.button02 {
+    background-color: #FFC066;
+    width: 174px;
+    height: 57px;
+    border-width: 0px;
+    border-style: solid;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.voucher {
+    width: 80px;
+    height: 83px;
+}
+
+.heading03 {
+    color: #000000;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.para01 {
+    color: #000000;
+    font-size: 16px;
+}
+
+.line {
+    width: 100%;
+    height: 3px;
+    color: #B7B7B7;
+}
+
+.button03 {
+    background-color: #149F39;
+    width: 140px;
+    height: 40px;
+    color: #ffffff;
+    border-width: 0px;
+    border-style: solid;
+}
+
+.heading04 {
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.f1 {
+    width: 585px;
+    height: 585px;
+}
+
+.f2 {
+    width: 276px;
+    height: 585px;
+}
+
+.f3 {
+    width: 277px;
+    height: 275px;
+}
+
+.bg-container01 {
+    background-color: #FFF0DB;
+    background-size: cover;
+}
+
+.logo01 {
+    width: 100px;
+    height: 76px;
+}
+
+.heading05 {
+    color: #565656;
+    font-size: 18px;
+    font-weight: bold;
+}
