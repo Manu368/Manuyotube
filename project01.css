@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+body {
+    font-family: "Roboto";
+
+}
+
+.great {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#home {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#posts {
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000;
+}
+
+.icon01 {
+    color: #454444;
+    font-size: 20px;
+}
+
+.image01 {
+    width: 100%;
+}
+
+.heading01 {
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.para01 {
+    color: #2D3748;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.date {
+    color: #718096;
+    font-size: 30px;
+    font-weight: 400;
+    margin-left: 50px;
+}
+
+.line01 {
+    text-align: center;
+    height: 2px;
+    color: #E8E7E7;
+}
+
+.para02 {
+    color: #718096;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: justify;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.section-heading {
+    color: #000000;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 80px;
+}
+
+.line {
+    background-color: black;
+    height: 1px;
+    width: 100%;
+}
+
+.copyrights {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 25px;
+}
+
+.icon02 {
+    color: #454444;
+    font-size: 20px;
+    margin-left: 5px;
+    position: absolute;
+    right: 150px;
+}
+
+.icon03 {
+    color: #454444;
+    font-size: 20px;
+    margin-left: 5px;
+    position: absolute;
+    right: 100px;
+}
+
+.icon04 {
+    color: #454444;
+    font-size: 20px;
+    margin-left: 5px;
+    position: absolute;
+    right: 50px;
+}
