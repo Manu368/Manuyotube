@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-container01 {
+    border-left: 1px solid #d6d6d4;
+}
+
+body {
+    display: flex;
+    font-family: "Roboto";
+}
+
+.heading01 {
+    color: #000000;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
+nav ul li {
+    color: #000000;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px solid black;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.heading02 {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.para01 {
+    text-align: justify;
+}
+
+.para02 {
+    text-align: justify;
+    margin-left: 100px;
+}
+
+.hello-container {
+    background-color: #EBEBEB;
+}
+
+.para03 {
+    text-align: justify;
+}
+
+.para04 {
+    text-align: justify;
+}
